@@ -1,0 +1,7 @@
+#intilializing a repo
+$git init 
+
+#check the status of files
+$git status
+
+
