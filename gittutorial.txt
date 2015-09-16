@@ -10,4 +10,4 @@ $cat .gitignore
 #to see what has been changed but has not been staged
 $git diff
 
-
+ 
