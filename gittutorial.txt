@@ -10,4 +10,21 @@ $cat .gitignore
 #to see what has been changed but has not been staged
 $git diff
 
+#removing file from the repo
+$git rm <filename>
+
+#moving files
+git mv <filename> <filename> <filename>
+
+#view log of everything that has happen
+$git log
+
+#to tag specific points
+#listing your tags
+$git tag
+
+#creating an annotated tag
+$git tag -a v1.0 -m ' my version 1.0'
+
+
  
