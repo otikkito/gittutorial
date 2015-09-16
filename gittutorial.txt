@@ -4,4 +4,10 @@ $git init
 #check the status of files
 $git status
 
+#ignoring files
+$cat .gitignore
+
+#to see what has been changed but has not been staged
+$git diff
+
 
