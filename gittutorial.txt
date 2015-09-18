@@ -29,4 +29,7 @@ $git tag -a v1.0 -m ' my version 1.0'
 #create a branch
 $git branch <branch name>
 
+#To change branches
+$git checkout <branch name>
+
  
