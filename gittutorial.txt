@@ -26,5 +26,7 @@ $git tag
 #creating an annotated tag
 $git tag -a v1.0 -m ' my version 1.0'
 
+#create a branch
+$git branch <branch name>
 
  
