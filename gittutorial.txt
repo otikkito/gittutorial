@@ -32,4 +32,6 @@ $git branch <branch name>
 #To change branches
 $git checkout <branch name>
 
+#To merge branch into master
+$git merge <branch name>
  
