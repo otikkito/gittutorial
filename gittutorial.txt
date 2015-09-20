@@ -35,3 +35,5 @@ $git checkout <branch name>
 #To merge branch into master
 $git merge <branch name>
  
+#TO push a local branch to remote repository
+$git push origin <branch name>
