@@ -4,6 +4,9 @@
 #include "proc/version.h"
 
 int main(int argc, char *argv[]) {
+    
+    
+    printf("Welcome to uptime this is Kito's version\n");
     if(argc == 1) {
         print_uptime();
         return 0;
