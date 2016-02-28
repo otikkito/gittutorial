@@ -1,5 +1,11 @@
+Git documentation: http://www.kernel.org/pub/software/scm/git/docs
+Soruce: "Version control with Git" by Jon Loeliger & Matthew McCullough
+
 #intilializing a repo
 $git init 
+
+#add a file to the repository which stages a file "an interim step before commital"
+git add <filename>
 
 #check the status of files
 $git status
