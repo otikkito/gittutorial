@@ -4,6 +4,11 @@ Soruce: "Version control with Git" by Jon Loeliger & Matthew McCullough
 #intilializing a repo
 $git init 
 
+#configuring the username and email
+$git config --global user.name "Kito Joseph"
+$git config --global user.email "kitojoseph@gmail.com"
+
+
 #add a file to the repository which stages a file "an interim step before commital"
 git add <filename>
 
