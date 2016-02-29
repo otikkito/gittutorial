@@ -25,6 +25,9 @@ git mv <filename> <filename> <filename>
 #view log of everything that has happen
 $git log
 
+#To see more details about a particular commit
+git show <commit number> 
+
 #to tag specific points
 #listing your tags
 $git tag
@@ -40,4 +43,7 @@ $git checkout <branch name>
 
 #To merge branch into master
 $git merge <branch name>
+
+#To find line blame
+$git blame
  
