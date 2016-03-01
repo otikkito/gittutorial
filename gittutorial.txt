@@ -52,3 +52,8 @@ $git merge <branch name>
 #To find line blame
 $git blame
  
+---------------------
+
+"Basic git concepts"
+- "A git repository is simply a database containing all the information neeeded to retain and manage the revision and history of a project"
+- "Within a repsitory, Git maintains two primary data structures, the object store and the index"
