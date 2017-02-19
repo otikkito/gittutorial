@@ -1,4 +1,5 @@
 Git documentation: http://www.kernel.org/pub/software/scm/git/docs
+www.kjoseph-it.com
 Soruce: "Version control with Git" by Jon Loeliger & Matthew McCullough
 
 #intilializing a repo
