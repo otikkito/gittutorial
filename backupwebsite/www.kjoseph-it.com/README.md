@@ -40,7 +40,7 @@
 
 <a href="https://en.wikipedia.org/wiki/Desertification">Reverse Desertification</a> &nbsp; <a href="http://www.nwf.org/">NWF</a><br>
 <a href="http://kediet.com/blog/introducing-dr-eric-c-westman-chair-of-the-ke-diet-scientific-advisory-board-2/">Diet</a> &nbsp; 
-<a href="https://fbns.ncsu.edu/">Food science</a> &nbsp
+<a href="https://fbns.ncsu.edu/">Food science</a> &nbsp;
 <a href="https://www.genome.gov/">Genome project</a> &nbsp; 
 <a href="https://www.pathway.com/">Pathway Genomics</a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Medical_ethics">Medical ethics</a>
