@@ -52,5 +52,64 @@
 <a href="https://en.wikipedia.org/wiki/Engineering_economics">Engineering Economics</a></body></html>
 
 <ul>
- <li>Test   
+  <li>Veteran Benefits <a href="https://myaccess.dmdc.osd.mil/identitymanagement/authenticate.do?execution=e3s1" target="_blank">VA benefits login</a></li>
+  <li>Retirement <a href="https://www.irs.gov/retirement-plans/401k-plans" target="_blank">401k</a> &nbsp; <a href="https://www.ssa.gov/retire/?gclid=CjwKCAjwsqjKBRBtEiwAkWyN34E3JL6Nx7kTG9Co5zb11uhSGvCD8Lv3IQyT59DUF7mNIn6QZIYS6xoCiH8QAvD_BwE" target="_blank">Social security</a></li>
+  <li>Daugther's education and when should the state constitution be tought in school <a href="https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html">529 Account</a></li>
+  <li>A salary paying job for income stability <a href=" http://www.bls.gov/" target="_blank">Jobs</a> &nbsp
+<a href="http://www.monster.com" target="_blank">Monster</a> &nbsp;
+<a href="http://www.indeed.com" target="_blank">Indeed</a> &nbsp;
+<a href="http://www.careerbuilder.com" target="_blank">Career builder</a> <a href="http://www.salary.com"> Salary.com</a></li>
+  <li>Housing <a href="http://www.wakegov.com/humanservices/housing/services/Pages/default.aspx" target="_blank">Wake housing</a></li>
+  <li>Delay in getting government services</li>
+  <li>Medical coverage and medical bills <a href="https://www.healthcare.gov/glossary/affordable-care-act/">The ACA</a> &nbsp <a href="https://www.medicaid.gov/">Medicaid</a></li>
+  <li>Universal basic income (insure that the money is used in the country of residency)<a href="http://knowledge.wharton.upenn.edu/article/universal-basic-income-good-idea/">Article about UBI</a></li>
+  <li>Clean renewable energy <a href="https://energy.gov">Energy</a></li>
+  <li>Social security</li>
+  <li>Wealth errosion</li>
+  <li>Planned parenthood vs. privatized treatment</li>
+  <li>Should private citizens pay for their prescription vs. the government</li>
+  <li>Military work place notes</li>
+  <li>Therapy and family services while serving in the military</li>
+  <li>Hacking laws (cellphone, operating systems, electric grid, etc.)</li>
+  <li>Should internet protocol contain point of origination of a packet <a href="https://tools.ietf.org/html/rfc791">RFC 791</a></li>
+  <li>Should disabled veterans be able to work from home till they are cured or stable in their treatment</li>
+  <li>Issues with family medicine</li>
+  <li>Homosexuality</li>
+  <li>Family law</li>
+  <li>University education model</li>
+  <li>Cancer, anthrax, flu shots, tetanus,mental health, military doctor</li>
+  <li>For national defense and humanitarian services only</li>
+  <li>Can you lose VA benefits for post service conduct?</li>
+  <li>EEOC</li>
+  <li>Healthy diet while on food stamps</li>
+  <li>Delay in finding work when laid off</li>
+  <li>Elemetary, middle school and high school classroom behavior notes</li>
+  <li>Access to a dermatologist</li>
+  <li>People issues with outdate HR policies or non compliant</li>
+  <li>Court appointed attorney 3x</li>
+  <li>Failure to ack my particular charges in my place of domicile</li>
+  <li>Who is my legal point of reference?</li>
+  <li>Same sex marriage</li>
+  <li>Money for the paying of sex change and ethics behind it</li>
+  <li>The national language and when it should be spoken (linguistics/word origin)</li>
+  <li>The minimum wage</li>
+  <li>Wage discrimination and wage guarantee for certain degrees</li>
+  <li>Digestable food list and foods that are good for me at restaurants given my health condition</li>
+  <li>The cost of living in civilan and military life, <a href="http://www.militaryspot.com/marines/marine-corps-education-mecep">MECEP</a>, Military libraries on base</li>
+  <li>Dichotomy between the parties</li>
+  <li>Posible housing discrimination</li>
+  <li>Current history should be taught in school for the mass dating back to 1964 to move forward</li>
+  <li>The problems still persists</li>
+  <li>Section 8 housing</li>
+  <li>Political operating system</li>
+  <li>FBI</li>
+  <li>NSA</li>
+  <li>Campus police</li>
+  <li>Police</li>
+  <li>For a consolidated constitution</li>
+  <li>Finacial engineering</li>
+  <li>Environmental engineering</li>
+  <li>Theology (Should religion change to meet the wants of the people?)</li>
+  <li>****Note to self; politics and laws are always changing for me in particular and as a whole****</li>
+
 </ul>
