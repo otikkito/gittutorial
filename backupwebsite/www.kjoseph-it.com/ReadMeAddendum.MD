@@ -1,0 +1,31 @@
+Kito Marid Joseph
+IEEE Member #93471157
+RHCE License #140-019-977
+cell: 919.381.7368
+house: 919.903.0505
+
+"A simple unemployed person who loves taking initiative, collaborates, likes learning, for 
+propriety, equity, for formal diagnoses, and a consolidated constitution.  I 
+also believe that every person should have a degree and at least one 
+certification and sticks to their profession unless a sane job market determines 
+otherwise. My career goal is to have a salary paying job to pay for retirement 
+to qualify for social security in my older years. I also believe one should work 
+for the government and private sector as well before retirement and that politics 
+and laws are always changing for me in particular and as a whole."
+
+"H20 + HCL + chemical reaction + biological reaction(environmental and ...) 
++ physical work = DNA(person: Medical and mental health "  --> I think ergo ...
+
+www.linkedin.com/in/kitojoseph
+https://www.eeoc.gov/
+https://github.com/otikkito
+https://www.salary.com/
+https://www.tullylegal.com/attorneys/kathryn-a-donnelly/
+https://www.dav.org/
+https://www.legion.org/
+https://www.ishares.com/
+https://www.tillis.senate.gov/
+https://oldwayspt.org/
+https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html
+https://en.wikipedia.org/wiki/Cistern 
+https://www.meetup.com/
