@@ -116,3 +116,5 @@
   <li>****Note to self; politics and laws are always changing for me in particular and as a whole****</li>
 
 </ul>
+
+[ReadmeAddendum](https://github.com/otikkito/gittutorial/blob/master/backupwebsite/www.kjoseph-it.com/ReadMeAddendum.MD) 
