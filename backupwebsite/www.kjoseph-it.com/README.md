@@ -26,6 +26,7 @@
 <a href="https://www.digikey.com">Digikey</a><br>
 <a href="http://www.w3schools.com/">Web page design</a>
 <br>
+<a href="https://www.w3resource.com/"> Programing exercises and solutions</a><br>
 <a href="https://github.com/otikkito/cWorld.git">Github coding projects</a><br>
 <a href="https://www.ieee.org">IEEE</a><br>
 <a href="http://www.gopack.com/">Sports schedule</a> &nbsp; <a href="http://www.alumni.ncsu.edu/">NCSU alumni page</a><br>
