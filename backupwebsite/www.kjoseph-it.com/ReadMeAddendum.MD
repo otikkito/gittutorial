@@ -13,8 +13,8 @@ to qualify for social security in my older years. I also believe one should work
 for the government and private sector as well before retirement and that politics 
 and laws are always changing for me in particular and as a whole."
 
-"H20 + HCL + chemical reaction + biological reaction(environmental and ...) 
-+ physical work = DNA(person: Medical and mental health "  --> I think ergo ...
+"H20 + HCL + chemical reaction + biological reaction + environmental and  
+  physical work = DNA(person: Medical and mental health "  --> I think ergo ...
 
 www.linkedin.com/in/kitojoseph
 https://www.eeoc.gov/
