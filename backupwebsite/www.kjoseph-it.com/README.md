@@ -86,6 +86,7 @@
   <li>Cancer, anthrax, flu shots, tetanus,mental health, military doctor</li>
   <li>For national defense and humanitarian services only</li>
   <li>Can you lose VA benefits for post service conduct?</li>
+  <li>Hot tea with honey or coffee
   <li>EEOC</li>
   <li>Healthy diet while on food stamps</li>
   <li>Delay in finding work when laid off</li>
