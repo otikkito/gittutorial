@@ -62,7 +62,7 @@
   <li>Daugther's education and when should the state constitution be tought in school <a href="https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html">529 Account</a></li>
   <li>A salary paying job for income stability <a href=" http://www.bls.gov/" target="_blank">Jobs</a> &nbsp
 <a href="http://www.monster.com" target="_blank">Monster</a> &nbsp;
-<a href="http://www.indeed.com" target="_blank">Indeed</a> &nbsp;<a href="www.dice.com" target="_blank">Dice<a/>
+<a href="http://www.indeed.com" target="_blank">Indeed</a> &nbsp; <a href="http://www.dice.com" target="_blank">Dice<a/>
 <a href="http://www.careerbuilder.com" target="_blank">Career builder</a> <a href="http://www.salary.com"> Salary.com</a></li>
   <li>Housing <a href="http://www.wakegov.com/humanservices/housing/services/Pages/default.aspx" target="_blank">Wake housing</a></li>
   <li>Delay in getting government services</li>
