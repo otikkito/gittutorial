@@ -53,6 +53,7 @@ $git merge <branch name>
 #To find line blame
 $git blame
  
+#git cherry pick 
 ---------------------
 
 "Basic git concepts"
