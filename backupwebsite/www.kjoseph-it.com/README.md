@@ -1,4 +1,4 @@
- <a href="http://simplylinuxfaq.blogspot.com/p/major-difference-between-rhel-7-and-6.html">RHSA-RHCE 7-6 differences</a>
+<a href="http://simplylinuxfaq.blogspot.com/p/major-difference-between-rhel-7-and-6.html">RHSA-RHCE 7-6 differences</a>
 <a href="https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_27x36_1014_jcs_web.pdf">RHEL 6-7 cheat sheet</a>
 <a href="https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam">Exam objectives for rhsa</a>
 <a href="https://www.redhat.com/en/services/training/ex300-red-hat-certified-engineer-rhce-exam">Exam objectives for rhce</a>
