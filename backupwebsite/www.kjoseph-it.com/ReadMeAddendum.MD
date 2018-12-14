@@ -13,7 +13,7 @@ for the government and private sector as well before retirement and that politic
 and laws are always changing for me in particular and as a whole."
 
 H20 + HCL + chemical reaction + biological reaction + environmental and  
-  physical work = DNA(person: Medical and mental health)   --> I think ergo ...
+  physical work + ... = DNA(person: Medical and mental health)   --> I think ergo ...
 
 <br>
 www.linkedin.com/in/kitojoseph <br>
