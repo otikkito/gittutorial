@@ -17,20 +17,20 @@ H20 + HCL + chemical reaction + biological reaction + environmental and
 
 <br>
 www.linkedin.com/in/kitojoseph <br>
-https://www.eeoc.gov/
-https://github.com/otikkito
-https://www.salary.com/
-https://www.tullylegal.com/attorneys/kathryn-a-donnelly/
-https://www.dav.org/
-https://www.legion.org/
-https://www.ishares.com/
-https://www.tillis.senate.gov/
-https://oldwayspt.org/
-https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html
-https://en.wikipedia.org/wiki/Cistern 
-https://www.meetup.com/
-https://www.pathway.com/
-http://www.nigeriaembassyusa.org/
-https://ng.usembassy.gov/
-https://twitter.com/kitojoseph80
-https://www.facebook.com/profile.php?id=11828348
+https://www.eeoc.gov/ <br>
+https://github.com/otikkito <br>
+https://www.salary.com/ <br>
+https://www.tullylegal.com/attorneys/kathryn-a-donnelly/ <br>
+https://www.dav.org/ <br>
+https://www.legion.org/ <br>
+https://www.ishares.com/ <br>
+https://www.tillis.senate.gov/ <br>
+https://oldwayspt.org/ <br>
+https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html <br>
+https://en.wikipedia.org/wiki/Cistern  <br>
+https://www.meetup.com/ <br>
+https://www.pathway.com/ <br>
+http://www.nigeriaembassyusa.org/ <br>
+https://ng.usembassy.gov/ <br>
+https://twitter.com/kitojoseph80 <br>
+https://www.facebook.com/profile.php?id=11828348 <br>
