@@ -90,7 +90,7 @@
   <li>Hot tea with honey or coffee
   <li>EEOC</li>
   <li>Healthy diet while on food stamps</li>
-  <li>Delay in finding work when laid off</li>
+  <li><strike>Delay in finding work when laid off</strike></li>
   <li>Elemetary, middle school and high school classroom behavior notes</li>
   <li>Access to a dermatologist</li>
   <li>People issues with outdate HR policies or non compliant</li>
