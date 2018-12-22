@@ -94,7 +94,7 @@
   <li>Elemetary, middle school and high school classroom behavior notes</li>
   <li>Access to a dermatologist</li>
   <li>People issues with outdate HR policies or non compliant</li>
-  <li>Court appointed attorney 3x</li>
+  <li><strike>Court appointed attorney 3x</strike></li>
   <li>Failure to ack my particular charges in my place of domicile</li>
   <li>Who is my legal point of reference?</li>
   <li>Same sex marriage</li>
