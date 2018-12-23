@@ -108,7 +108,7 @@
   <li>Posible housing discrimination</li>
   <li>Current history should be taught in school for the mass dating back to 1964 to move forward</li>
   <li>The problems still persists</li>
-  <li>Section 8 housing</li>
+  <li><strike>Section 8 housing</strike></li>
   <li>Political operating system</li>
   <li>Is doing certain task like riding a bike?</li>
   <li>FBI</li>
