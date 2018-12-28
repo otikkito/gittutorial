@@ -102,7 +102,7 @@
   <li>The national language and when it should be spoken (linguistics/word origin)</li>
   <li>The minimum wage</li>
   <li>Wage discrimination and wage guarantee for certain degrees</li>
-  <li>Digestable food list and foods that are good for me at restaurants given my health condition<a href="https://oldwayspt.org/">Food pyramid</a></li>
+  <li>Digestable food list and foods that are good for me at restaurants given my health condition <a href="https://oldwayspt.org/">Food pyramid</a></li>
   <li>The cost of living in civilan and military life, <a href="http://www.militaryspot.com/marines/marine-corps-education-mecep">MECEP</a>, Military libraries on base</li>
   <li>Dichotomy between the parties</li>
   <li>Posible housing discrimination</li>
