@@ -66,7 +66,7 @@
 <a href="http://www.careerbuilder.com" target="_blank">Career builder</a> <a href="http://www.salary.com"> Salary.com</a></li>
   <li>Housing <a href="http://www.wakegov.com/humanservices/housing/services/Pages/default.aspx" target="_blank">Wake housing</a></li>
   <li>Delay in getting government services</li>
-  <li>Medical coverage and medical bills <a href="https://www.healthcare.gov/glossary/affordable-care-act/">The ACA</a> &nbsp <a href="https://www.medicaid.gov/">Medicaid</a></li>
+ <li><strike>Medical coverage and medical bills </strike><a href="https://www.healthcare.gov/glossary/affordable-care-act/">The ACA</a> &nbsp <a href="https://www.medicaid.gov/">Medicaid</a></li>
   <li>Universal basic income (insure that the money is used in the country of residency)<a href="http://knowledge.wharton.upenn.edu/article/universal-basic-income-good-idea/">Article about UBI</a></li>
   <li>Clean renewable energy <a href="https://energy.gov">Energy</a></li>
   <li>Social security</li>
@@ -102,13 +102,13 @@
   <li>The national language and when it should be spoken (linguistics/word origin)</li>
   <li>The minimum wage</li>
   <li>Wage discrimination and wage guarantee for certain degrees</li>
-  <li>Digestable food list and foods that are good for me at restaurants given my health condition</li>
+  <li>Digestable food list and foods that are good for me at restaurants given my health condition <a href="https://oldwayspt.org/">Food pyramid</a></li>
   <li>The cost of living in civilan and military life, <a href="http://www.militaryspot.com/marines/marine-corps-education-mecep">MECEP</a>, Military libraries on base</li>
   <li>Dichotomy between the parties</li>
   <li>Posible housing discrimination</li>
   <li>Current history should be taught in school for the mass dating back to 1964 to move forward</li>
   <li>The problems still persists</li>
-  <li>Section 8 housing</li>
+  <li><strike>Section 8 housing</strike></li>
   <li>Political operating system</li>
   <li>Is doing certain task like riding a bike?</li>
   <li>FBI</li>
