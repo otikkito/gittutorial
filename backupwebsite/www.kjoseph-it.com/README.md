@@ -120,6 +120,7 @@
   <li>Biomedical engineering</li>
   <li>Environmental engineering</li>
   <li>System engineering</li>
+  <li><a href="https://en.wikipedia.org/wiki/Chief_technology_officer">Chief technology officer</a></li>
   <li>Theology (Should religion change to meet the wants of the people?)</li>
   <li><a href="https://en.wikipedia.org/wiki/Creationism">Creationism</a></li>
   <li>****Note to self; politics and laws are always changing for me in particular and as a whole****</li>
