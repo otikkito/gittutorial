@@ -89,7 +89,7 @@
   <li>Can you lose VA benefits for post service conduct?</li>
   <li>Hot tea with honey or coffee
   <li>EEOC</li>
-  <li>Healthy diet while on food stamps</li>
+  <li><strike>Healthy diet while on food stamps</strike>/li>
   <li><strike>Delay in finding work when laid off</strike></li>
   <li>Elemetary, middle school and high school classroom behavior notes</li>
   <li>Access to a dermatologist</li>
