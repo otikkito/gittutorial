@@ -57,7 +57,7 @@
 ---------------------------------------------------------------------------------------------
 
 <ul>
-  <li>Veteran Benefits <a href="https://myaccess.dmdc.osd.mil/identitymanagement/authenticate.do?execution=e3s1" target="_blank">VA benefits login</a> &nbsp <a href="https://www.myhealth.va.gov/mhv-portal-web/home" target="_blank">myHealtheVets &nbsp <a href="https://www.vets.gov" target="_blank">Vets.gov</a></li>
+  <li><strike>Veteran Benefits </strike><a href="https://myaccess.dmdc.osd.mil/identitymanagement/authenticate.do?execution=e3s1" target="_blank">VA benefits login</a> &nbsp <a href="https://www.myhealth.va.gov/mhv-portal-web/home" target="_blank">myHealtheVets &nbsp <a href="https://www.vets.gov" target="_blank">Vets.gov</a></li>
   <li>Retirement <a href="https://www.irs.gov/retirement-plans/401k-plans" target="_blank">401k</a> &nbsp; <a href="https://www.ssa.gov/retire/?gclid=CjwKCAjwsqjKBRBtEiwAkWyN34E3JL6Nx7kTG9Co5zb11uhSGvCD8Lv3IQyT59DUF7mNIn6QZIYS6xoCiH8QAvD_BwE" target="_blank">Social security</a></li>
   <li>Daugther's education and when should the state constitution be tought in school <a href="https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html">529 Account</a></li>
   <li>A salary paying job for income stability <a href=" http://www.bls.gov/" target="_blank">Jobs</a> &nbsp
