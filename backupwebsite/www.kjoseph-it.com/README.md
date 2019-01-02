@@ -78,7 +78,7 @@
   <li>Therapy and family services while serving in the military</li>
   <li>Hacking laws (cellphone, operating systems, electric grid, etc.)</li>
   <li>Should internet protocol contain point of origination of a packet <a href="https://tools.ietf.org/html/rfc791">RFC 791</a></li>
-  <li>Should disabled veterans be able to work from home till they are cured or stable in their treatment</li>
+  <li><a href="https://www.eeoc.gov/eeoc/publications/ada_veterans.cfm">Should disabled veterans be able to work from home till they are cured or stable in their treatment</a></li>
   <li>Issues with family medicine</li>
   <li>Homosexuality</li>
   <li> Net flow of immigration </li>
