@@ -56,8 +56,11 @@ $git blame
 #git cherry pick 
 
 #remove last commit: https://www.git-tower.com/learn/git/faq/undo-last-commit
-git reset --soft HEAD~1
-git reset --hard HEAD~1
+//still showing the banch is behind origin/master
+git reset --soft HEAD~1   //use this to save the previous changes
+or
+git reset --hard HEAD~1   //use this to not save the previous changes
+git push origin -f 
 ---------------------
 
 "Basic git concepts"
