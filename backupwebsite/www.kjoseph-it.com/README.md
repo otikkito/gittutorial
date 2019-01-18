@@ -66,7 +66,7 @@
 <a href="http://www.careerbuilder.com" target="_blank">Career builder</a> <a href="http://www.salary.com"> Salary.com</a></li>
   <li><strike>Housing <a href="http://www.wakegov.com/humanservices/housing/services/Pages/default.aspx" target="_blank">Wake housing</a></strike></li>
   <li>Delay in getting government services</li>
- <li><strike>Medical coverage and medical bills </strike><a href="https://www.healthcare.gov/glossary/affordable-care-act/">The ACA</a> &nbsp <a href="https://www.medicaid.gov/">Medicaid</a></li>
+ <li><strike>Medical coverage and medical bills </strike><a href="https://www.healthcare.gov/glossary/affordable-care-act/">The ACA</a> &nbsp <a href="https://www.medicaid.gov/">Medicaid</a> &nbsp <a href="https://blackdoctor.org/">Black Doctor</a></li>
   <li>Universal basic income (insure that the money is used in the country of residency)<a href="http://knowledge.wharton.upenn.edu/article/universal-basic-income-good-idea/">Article about UBI</a></li>
   <li>Clean renewable energy <a href="https://energy.gov">Energy</a></li>
   <li>Social security</li>
