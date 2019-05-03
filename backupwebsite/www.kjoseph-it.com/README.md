@@ -32,6 +32,7 @@
 <a href="https://www.w3resource.com/"> Programing exercises and solutions</a><br>
 <a href="https://github.com/otikkito/cWorld.git">Github coding projects</a><br>
 <a href="https://www.ieee.org">IEEE</a><br>
+<a href="https://www.instructables.com/">Instructables</a><br>
 <a href="http://www.gopack.com/">Sports schedule</a> &nbsp; <a href="http://www.alumni.ncsu.edu/">NCSU alumni page</a><br>
 <a href="http://www.dictionary.com/">Dictionary</a><br>
 <a href="https://www.loc.gov/">Library of congress</a> &nbsp; <a href="https://www.lib.ncsu.edu/huntlibrary">J.B. Hunt library</a><br>
