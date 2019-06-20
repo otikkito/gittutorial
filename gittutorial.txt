@@ -47,6 +47,9 @@ $git branch <branch name>
 #To change branches
 $git checkout <branch name>
 
+#to push a branch to github
+$git push origin <branch_name>
+
 #To merge branch into master
 $git merge <branch name>
 
