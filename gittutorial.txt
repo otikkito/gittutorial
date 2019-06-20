@@ -67,6 +67,10 @@ git reset --hard HEAD~1   //use this to not save the previous changes
 git push origin -f 
 ---------------------
 
+To view diff with meld: https://stackoverflow.com/questions/2006032/view-differences-of-branches-with-meld
+$git config --global diff.tool meld
+$git difftool master..<branch_name>
+
 "Basic git concepts"
 - "A git repository is simply a database containing all the information needed 
 to retain and manage the revision and history of a project"
