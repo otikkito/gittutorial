@@ -95,7 +95,7 @@
   <li>EEOC</li>
   <li><strike>Healthy diet while on food stamps</strike></li>
   <li><strike>Delay in finding work when laid off</strike></li>
-  <li>Elemetary, middle school and high school classroom behavior notes</li>
+  <li>Elementary, middle school and high school classroom behavior notes</li>
   <li><a href="https://goodmandermatology.com/dermatosis-papulosa-nigra-dpn/">Access to a dermatologist</a></li>
   <li>People issues with outdate HR policies or non compliant</li>
   <li><strike>Court appointed attorney 3x</strike></li>
