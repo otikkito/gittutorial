@@ -109,7 +109,7 @@
   <li><strike>Digestable food list and foods that are good for me at restaurants given my health condition</strike> <a href="https://oldwayspt.org/">Food pyramid</a><a href="https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/DBrief/10_potassium_intake_0910.pdf"> deficiency</a></li>
   <li>The cost of living in civilan and military life, <a href="http://www.militaryspot.com/marines/marine-corps-education-mecep">MECEP</a>, Military libraries on base</li>
   <li>Dichotomy between the parties</li>
-  <li>Posible housing discrimination</li>
+  <li>Possible housing discrimination</li>
   <li>Current history should be taught in school for the mass dating back to 1964 to move forward</li>
   <li>The problems still persists</li>
   <li><strike>Section 8 housing</strike></li>
