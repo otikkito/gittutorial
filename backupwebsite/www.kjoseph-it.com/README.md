@@ -75,7 +75,7 @@
   <li>Clean renewable energy <a href="https://energy.gov">Energy</a></li>
   <li>Social security</li>
   <li>Wealth errosion</li>
-  <li><strike>Do I qualify for Iraq campaign medal and/or Global war on terrorism service medal?</strike>
+  <li><strike>Do I qualify for the Iraq campaign medal and/or Global war on terrorism service medal?</strike>
   <li>Planned parenthood vs. privatized treatment</li>
   <li>Should private citizens pay for their prescription vs. the government</li>
   <li>Military work place notes</li>
