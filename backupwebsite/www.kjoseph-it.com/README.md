@@ -68,7 +68,7 @@
 <a href="http://www.monster.com" target="_blank">Monster</a> &nbsp;
 <a href="http://www.indeed.com" target="_blank">Indeed</a> &nbsp; <a href="http://www.dice.com" target="_blank">Dice<a/>
 <a href="http://www.careerbuilder.com" target="_blank">Career builder</a> <a href="http://www.salary.com"> Salary.com</a></li>
-  <li><strike>Housing <a href="http://www.wakegov.com/humanservices/housing/services/Pages/default.aspx" target="_blank">Wake housing</a></strike></li>
+  <li><strike>Housing <a href="http://www.wakegov.com/housing/Pages/default.aspx" target="_blank">Wake housing</a></strike></li>
   <li>Delay in getting government services</li>
  <li><strike>Medical coverage and medical bills </strike><a href="https://www.healthcare.gov/glossary/affordable-care-act/">The ACA</a> &nbsp <a href="https://www.medicaid.gov/">Medicaid</a> &nbsp <a href="https://blackdoctor.org/">Black Doctor</a></li>
   <li>Universal basic income (insure that the money is used in the country of residency)<a href="http://knowledge.wharton.upenn.edu/article/universal-basic-income-good-idea/">Article about UBI</a></li>
