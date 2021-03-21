@@ -4,6 +4,7 @@
 <a href="https://access.redhat.com/sites/default/files/attachments/rhel_5_6_7_cheatsheet_27x36_1014_jcs_web.pdf">RHEL 6-7 cheat sheet</a>
 <a href="https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam">Exam objectives for rhsa</a>
 <a href="https://www.redhat.com/en/services/training/ex300-red-hat-certified-engineer-rhce-exam">Exam objectives for rhce</a>
+<a href="https://www.redhat.com/en/services/certification/rhcs-performance-tuning">Exam objectives for performance tuning</a>
 <a href="https://en.wikipedia.org/wiki/Systemd">Systemd</a>
 <a href="http://www.firewalld.org/">Firewalld</a>
 <a href="https://gcc.gnu.org/">GCC</a> <a href="http://pubs.opengroup.org/onlinepubs/9699919799/">Posix</a>
