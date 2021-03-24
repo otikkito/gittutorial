@@ -37,6 +37,7 @@ http://www.nigeriaembassyusa.org/ <br>
 https://ng.usembassy.gov/ <br>
 https://uk.usembassy.gov/ <br>
 https://en.wikipedia.org/wiki/List_of_universities_in_Nigeria <br>
+https://en.wikipedia.org/wiki/Languages_of_Nigeria <br>
 https://twitter.com/kitojoseph80 <br>
 http://kitojoseph.dyndns.org/ <br>
 https://www.facebook.com/profile.php?id=11828348 <br>
