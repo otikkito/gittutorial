@@ -14,7 +14,7 @@
 
 <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5303&num=0&edition=prelim">Granting of benefits</a>
 <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1553&num=0&edition=prelim">Review of discharge</a>
-<a href="http://kitojoseph.dyndns.org/Docs/NR0106 15_Redacted">Case review #1</a>
+<a href="http://kitojoseph.dyndns.org/Docs/NR0106-15_Redacted.pdf">Case review #1</a>
 <a href="http://boards.law.af.mil/NAVY/DRB/2012_Navy/ND1200050.rtf">Case review #2</a>
 <a href="http://kitojoseph.dyndns.org/Docs/Prior-submission-NDRB-Kito-joseph.pdf">Case review #3</a><br>
 <a href="http://www.eeoc.gov/eeoc/publications/ada_veterans.cfm">EEOC</a>
