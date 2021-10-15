@@ -90,7 +90,7 @@
   <li> Net flow of immigration </li>
   <li>Family law</li>
   <li>University education model</li>
-  <li>Cancer, anthrax, flu shots, tetanus,mental health, military doctor</li>
+  <li>Cancer, anthrax, flu shots, tetanus,covid, mental health, military doctor</li>
   <li>For national defense and humanitarian services only</li>
   <li>Can you lose VA benefits for post service conduct?</li>
   <li>Hot tea with honey or coffee
