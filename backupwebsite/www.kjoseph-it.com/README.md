@@ -74,7 +74,7 @@
   <li>Delay in getting government services</li>
  <li><strike>Medical coverage and medical bills </strike><a href="https://www.healthcare.gov/glossary/affordable-care-act/">The ACA</a> &nbsp <a href="https://www.medicaid.gov/">Medicaid</a> &nbsp <a href="https://blackdoctor.org/">Black Doctor</a></li>
   <li>Universal basic income (insure that the money is used in the country of residency)<a href="http://knowledge.wharton.upenn.edu/article/universal-basic-income-good-idea/">Article about UBI</a></li>
-  <li>Clean renewable energy <a href="https://energy.gov">Energy</a></li>
+  <li>Clean renewable energy <a href="https://energy.gov">Energy</a> &nbsp <a href="https://www.cmegroup.com/trading/agricultural/biofuel.html">Biofuel and Renewable Fuel Products</a></li>
   <li>Social security</li>
   <li>Wealth errosion</li>
   <li><strike>Do I qualify for the Iraq campaign medal and/or Global war on terrorism service medal?</strike>
