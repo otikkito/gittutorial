@@ -76,3 +76,31 @@ $git difftool master..<branch_name>
 to retain and manage the revision and history of a project"
 - "Within a repository, Git maintains two primary data structures, the object 
 store and the index"
+
+---------------------
+git                           git-merge-file
+git-add                       git-merge-index
+git-am                        git-merge-one-file
+git-annotate                  git-mergetool
+git-apply                     git-mergetool--lib
+git-archive                   git-merge-tree
+gitattributes                 git-mktag
+git-bisect                    git-mktree
+git-blame                     gitmodules
+git-branch                    git-multi-pack-index
+git-bugreport                 git-mv
+git-bundle                    git-name-rev
+git-cat-file                  gitnamespaces
+git-check-attr                git-notes
+git-check-ignore              git-pack-objects
+git-check-mailmap             git-pack-redundant
+git-checkout                  git-pack-refs
+git-checkout-index            git-patch-id
+git-check-ref-format          git-prune
+git-cherry                    git-prune-packed
+git-cherry-pick               git-pull
+git-clean                     git-push
+gitcli                        git-quiltimport
+git-clone                     git-range-diff
+
+---------------------
