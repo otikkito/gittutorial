@@ -86,7 +86,7 @@
   <li>Hacking laws (cellphone, operating systems, electric grid, etc.)</li>
   <li>Should internet protocol contain point of origination of a packet <a href="https://tools.ietf.org/html/rfc791">RFC 791</a></li>
   <li><a href="https://www.eeoc.gov/eeoc/publications/ada_veterans.cfm">Should disabled veterans be able to work from home till they are cured or stable in their treatment</a></li>
-  <li>The admissibility of DNA/genetic evidence <a href="https://www.findlaw.com/criminal/criminal-procedure/what-is-dna-evidence.html">Evidence </a></li>
+  <li>The admissibility of DNA/genetic evidence <a href="https://www.findlaw.com/criminal/criminal-procedure/what-is-dna-evidence.html">Evidence 1 </a><a href="https://www.nimh.nih.gov/health/publications/looking-at-my-genes#:~:text=Research%20conducted%20and%20funded%20by,%2C%20psychological%2C%20and%20genetic%20factors.">Evidence 2</a></li>
   <li>Issues with family medicine</li>
   <li>Homosexuality</li>
   <li> Net flow of immigration </li>
