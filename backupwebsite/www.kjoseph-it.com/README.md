@@ -20,7 +20,7 @@
 <a href="http://www.eeoc.gov/eeoc/publications/ada_veterans.cfm">EEOC</a>
 <a href="https://askjan.org/media/Psychiatric.html">Work place notes</a>
 
-<a href="http://www.hqmc.marines.mil/Agencies/Office-of-Legislative-Affairs/Congressional-Correspondence-Section/Board-for-Corrections-of-Naval-Records/">Marine Corps Records</a><a href="http://www.usmc-mccs.org/index.cfm/services/activities/single-marine-program/"></a>
+<a href="http://www.hqmc.marines.mil/Agencies/Office-of-Legislative-Affairs/Congressional-Correspondence-Section/Board-for-Corrections-of-Naval-Records/">Marine Corps Records</a>&nbsp;<a href="http://www.usmc-mccs.org/index.cfm/services/activities/single-marine-program/">Single Marine Program</a>&nbsp;<a href="https://www.marforres.marines.mil/Staff-Sections/General-Staff/Command-Inspector-General/Request-Mast/">Request Mast Guide</a>
 <br><a href="https://en.wikipedia.org/wiki/Date_rape">North Carolina</a></div>
 </div><div id="wsb-element-7a8f3458-244e-4895-8e5d-19d5fef1b8fc" class="wsb-element-htmlsnippet" data-type="element">
 
