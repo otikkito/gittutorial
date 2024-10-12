@@ -33,7 +33,7 @@ https://www.meetup.com/ <br>
 https://www.pathway.com/ <br>
 https://www.23andme.com/ <br>
 https://www.everlywell.com/ <br>
-https://nsbe.org/home.aspx <br>
+https://nsbe.org/ <br>
 http://www.nigeriaembassyusa.org/ <br>
 https://ng.usembassy.gov/ <br>
 https://uk.usembassy.gov/ <br>
